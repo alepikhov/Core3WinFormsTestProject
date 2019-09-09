@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/SimpleWinForms/.vs/SimpleWinForms/v16
+/SimpleWinForms/bin/Debug/netcoreapp3.0
+/SimpleWinForms/obj
+/SimpleWinForms/SimpleWinForms.csproj.user
